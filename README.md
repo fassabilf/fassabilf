@@ -9,12 +9,17 @@
 
 I'm a Computer Science student at Universitas Indonesia who’s deeply passionate about Artificial Intelligence, Data Science, and Large Language Models (LLMs). I've had hands-on experience in real-world machine learning projects—from natural language processing to computer vision—and I'm always hungry to learn more.
 
+Currently serving as Vice Director of Data Science & AI at RISTEK Fasilkom UI, where I help shape cutting-edge AI education for fellow students.
+
+I'm looking for DS&AI internship opportunities to expand my experience and contribute to impactful machine learning systems.
 
 ---
 
 ### Highlighted Project: Heredicheck-AI
 
-[View Project](https://github.com/fassabilf/heredicheck-ai)
+- [Live Demo](https://heredicheck.vercel.app/)
+- [Devpost Page](https://devpost.com/software/heredicheck?_gl=1*1uwp0qi*_gcl_au*MTYxNzM2MTM0NC4xNzQ1MTk0MDkx*_ga*MjgwMDU0NjQyLjE3MzYxNDI1MTQ.*_ga_0YHJK3Y10M*MTc0NTE5NDA5MS4yMS4xLjE3NDUxOTQxMDEuMC4wLjA.)
+- [GitHub Repo](https://github.com/fassabilf/heredicheck-ai)
 
 Graph-Based Predictive AI for Hereditary Disease Risk Assessment
 
@@ -22,13 +27,27 @@ Heredicheck-AI is a full-stack AI system using Graph Neural Networks (GNN) to pr
 
 - FHIR-compliant synthetic patient generation using Synthea  
 - Graph construction with bi-directional family relationships  
-- Multi-label prediction of 6 hereditary diseases (e.g., Diabetes, Cancer, Alzheimer’s)  
+- Multi-label prediction of 6 hereditary diseases  
 - GNN modeling using PyTorch Geometric  
-- Deployed via FastAPI for real-time healthcare integration  
+- FastAPI backend and Vercel frontend deployment  
 
 Technologies used: Python, PyG, FastAPI, Scikit-learn, TF-IDF, GCNConv, Synthea
 
-Check out the repo’s README for a full explanation of the system pipeline, model, and API demo.
+---
+
+### Ongoing Project: JAKI Reports AI
+
+- [Live API Demo](https://jaki-reports.up.railway.app)
+- [GitHub Repo](https://github.com/gemestik-kubik/)
+- [Research Paper (PDF)](https://drive.google.com/file/d/1QQ78PYrwda4MIZNUzS4Z5rogMC54Vvq_/view)
+
+A research-driven classification system for JAKI (Jakarta Smart City) citizen reports using IndoBERTweet with Continual Learning.
+
+- Trained on 150k+ real reports from 2021–2024  
+- Achieved F1-Micro Score 0.7465  
+- Targets government agency classification from textual complaints  
+- Tech stack evolving from Django + FastAPI to Next.js + Django REST Framework  
+- Submitted for GEMASTIK 2024
 
 ---
 
